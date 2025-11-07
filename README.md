@@ -78,17 +78,6 @@ You can now write, assemble, and run x86 assembly programs directly from VS Code
 
 ---
 
-## 🧱 Example Interface
-
-| Step | Description | Example |
-|------|--------------|----------|
-| 1️⃣ | Select Operation | `Enter choice (a/b/c/d): a` |
-| 2️⃣ | Enter Numbers | `Enter first number: 12` <br> `Enter second number: 8` |
-| 3️⃣ | Output | `Result: 20` |
-| 4️⃣ | Loop | `Press any key to continue...` |
-
----
-
 ## 📝 License
 
 This project is open-source and available under the [MIT License](LICENSE)
