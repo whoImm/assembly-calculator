@@ -20,12 +20,26 @@ This project is a simple 16-bit calculator program written in assembly language,
 
 ### Installation
 
-1.  **Install MASM/TASM Extension for VS Code: Open VS Code, go to the Extensions marketplace (Ctrl+Shift+X), and install the "MASM/TASM" extension by "vscode-masm". This extension provides syntax highlighting and integrated assembly/execution capabilities..
-2.  **Create a Working Directory: Create a directory for your assembly files. You can now write, assemble, and run your x86 assembly programs directly from VS Code using the extension's built-in commands.
+1. **Install MASM/TASM Extension for VS Code:**
+   ```bash
+   - Open VS Code
+   - Press Ctrl+Shift+X to open Extensions
+   - Search for "MASM/TASM"
+   - Install the extension by "vscode-masm"
+   ```
+
+2. **Create a Working Directory:**
+   ```bash
+   mkdir assembly-projects
+   cd assembly-projects
+   ```
+
+The extension provides syntax highlighting and integrated assembly/execution capabilities. You can now write, assemble, and run x86 assembly programs directly from VS Code.
+**Note:** The extension automatically handles DOSBox configuration, eliminating the need for manual setup.
 
 ## 💻 Usage
 
-1.  Run
+1.  Run ASM code
 2.  The program will display a menu with available operations:
     - a. Addition
     - b. Subtraction
