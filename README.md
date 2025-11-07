@@ -54,4 +54,4 @@ The extension provides syntax highlighting and integrated assembly/execution cap
 
 ## 📝 License
 
-This project is open-source and available under the [MIT License](LICENSE) (add a LICENSE file if applicable).
+This project is open-source and available under the [MIT License](LICENSE)
