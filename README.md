@@ -39,7 +39,7 @@ The extension provides syntax highlighting and integrated assembly/execution cap
 
 ## 💻 Usage
 
-![MASM/TASM Extension Demo](https://storage.imgbly.com/imgbly/PIyz0OaixX.gif)
+![MASM/TASM Extension Demo](https://cdn.discordapp.com/attachments/1024260385311838289/1436378544488841308/demo.gif?ex=690f6343&is=690e11c3&hm=f34d980fa31c3a23551d98dc69bc904e87e28fafcb921444adaebb1ff6f1d493&)
 
 1.  Run ASM code
 2.  The program will display a menu with available operations:
