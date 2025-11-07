@@ -38,7 +38,7 @@ The extension provides syntax highlighting and integrated assembly/execution cap
 **Note:** The extension automatically handles DOSBox configuration, eliminating the need for manual setup.
 
 ## 💻 Usage
-
+![demo](https://storage.imgbly.com/imgbly/PIyz0OaixX.gif)
 1.  Run ASM code
 2.  The program will display a menu with available operations:
     - a. Addition
